@@ -290,3 +290,16 @@ https://english.eu2016.nl/latest/news/2016/02/15/bosnia-and-herzegovina-applied-
 http://www.coe.int/web/portal/rss
 http://www.sundaystandard.info/content/rss-feeds
 http://www.sundaystandard.info/./news-rss-feed
+http://www.sundaystandard.info/./business-rss-feed
+http://www.sundaystandard.info/./lifestyle-rss-feed
+http://www.sundaystandard.info/./indepth-rss-feed
+http://www.sundaystandard.info/./opinions-rss-feed
+http://www.sundaystandard.info/./sports-rss-feed
+http://www.sundaystandard.info/./archives-rss-feed
+http://www.sundaystandard.info/./rss-feed
+http://www.un.org/webcast/rss/
+http://www.filmcontact.com/rss.xml
+http://www.reuters.com/tools/rss
+http://www.reuters.com/tools/rss
+http://www.buenosairesherald.com/articles/rss.aspx
+http://www2.anba.com.br/rss.kmf
