@@ -49,4 +49,8 @@ with open("news_links.txt","r") as links:
                 print("requests.exceptions.ConnectionError")
             except requests.exceptions.TooManyRedirects:
                 print("requests.exceptions.TooManyRedirects")
+            except requests.exceptions.ContentDecodingError:
+                print("requests.exceptions.ContentDecodingError:")
+            except requests.exceptions.ChunkedEncodingError:
+                print("requests.exceptions.ChunkedEncodingError:")
             i += 1
