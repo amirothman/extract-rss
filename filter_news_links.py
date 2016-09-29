@@ -7,8 +7,8 @@ p = Path("current_line")
 
 i = 0
 
-with open("news_links.txt","r") as links:
-    with open("filtered.txt","a") as filtered:
+with open("news_links_2.txt","r") as links:
+    with open("filtered_2.txt","a") as filtered:
         for line in links:
             try:
                 current_line = int(p.read_text())

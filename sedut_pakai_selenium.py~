@@ -25,7 +25,7 @@ if __name__=="__main__":
     pages = ["","&start=10","&start=20"]
     wait = WebDriverWait(driver, 10)
 
-    with open("news_links_2.txt","a") as newslinks_txt:
+    with open("news_links_2.txt","w") as newslinks_txt:
         for country in countries:
             for p in pages:
                 url = base_link.format(country,p)
