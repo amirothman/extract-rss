@@ -7,17 +7,17 @@ p = Path("current_line")
 
 i = 0
 
-with open("news_links_2.txt","r") as links:
-    with open("filtered_2.txt","a") as filtered:
+with open("news_links_3.txt","r") as links:
+    with open("filtered_3.txt","ab") as filtered:
         for line in links:
             try:
                 current_line = int(p.read_text())
-                if i > current_line:
-
+                if i >= current_line:
+                    print(line)
                     p.write_text(str(i))
                     if re.search(r"^http",line):
                         c = re.sub("\n","",line)
-                        if not re.search(r"facebook|twitter|wikipedia|htm",c):
+                        if not re.search(r"facebook|twitter|wikipedia",c):
                             # print(c)
 
                             r = requests.get(c)
@@ -42,9 +42,9 @@ with open("news_links_2.txt","r") as links:
                                             real_rss = re.sub("http:/","http://",real_rss)
                                             real_rss = re.sub("https:/","https://",real_rss)
 
-                                        print(real_rss)
-                                        filtered.write(real_rss)
-                                        filtered.write("\n")
+                                        print(real_rss.encode("utf-8"))
+                                        filtered.write(real_rss.encode("utf-8"))
+                                        filtered.write("\n".encode("utf-8"))
             except requests.exceptions.ConnectionError:
                 print("requests.exceptions.ConnectionError")
             except requests.exceptions.TooManyRedirects:

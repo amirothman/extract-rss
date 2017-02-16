@@ -1,0 +1,219 @@
+Aachen
+Aalen
+Ahlen
+Aix-la-Chapelle
+Arnsberg
+Aschaffenburg
+Augsburg
+Bad Homburg vor der Höhe
+Bad Salzuflen
+Baden-Baden
+Baden-Württemberg
+Bamberg
+Bavaria
+Bayern
+Bayreuth
+Bergheim
+Bergisch Gladbach
+Berlin
+Bielefeld
+Bocholt
+Bochum
+Bonn
+Bottrop
+Brandenburg
+Brandenburg an der Havel
+Braunschweig
+Bremen
+Bremerhaven
+Brunswick
+Castrop-Rauxel
+Celle
+Chemnitz
+Chóśebuz
+Cologne
+Cottbus
+Darmstadt
+Delmenhorst
+Dessau-Roßlau
+Detmold
+Dinslaken
+Dormagen
+Dorsten
+Dortmund
+Dresden
+Duisburg
+Dusseldorf
+Düren
+Düsseldorf
+Emden
+Erfurt
+Erlangen
+Eschweiler
+Essen
+Esslingen am Neckar
+Europe
+Euskirchen
+Flensburg
+Frankfurt (Oder)
+Frankfurt am Main
+Frechen
+Freiburg im Breisgau
+Friedrichshafen
+Fulda
+Fürth
+Garbsen
+Gelsenkirchen
+Gera
+Germany
+Gießen
+Gladbeck
+Goslar
+Greifswald
+Grevenbroich
+Gummersbach
+Göppingen
+Görlitz
+Göttingen
+Gütersloh
+Hagen
+Halle (Saale)
+Hamburg
+Hameln
+Hamm
+Hanau
+Hannover
+Hanover
+Hattingen
+Heidelberg
+Heilbronn
+Herford
+Herne
+Herten
+Hesse
+Hessen
+Hilden
+Hildesheim
+Hürth
+Ibbenbüren
+Ingolstadt
+Iserlohn
+Jena
+Kaiserslautern
+Karlsruhe
+Kassel
+Kempten (Allgäu)
+Kerpen
+Kiel
+Koblenz
+Konstanz
+Krefeld
+Köln
+Landshut
+Langenfeld (Rheinland)
+Langenhagen
+Leipzig
+Leverkusen
+Lingen (Ems)
+Lippstadt
+Lower Saxony
+Ludwigsburg
+Ludwigshafen am Rhein
+Lübeck
+Lüdenscheid
+Lüneburg
+Lünen
+Magdeburg
+Mainz
+Mannheim
+Marburg
+Marl
+Mecklenburg-Vorpommern
+Mecklenburg-Western Pomerania
+Meerbusch
+Menden (Sauerland)
+Minden
+Moers
+Munich
+Mönchengladbach
+Mülheim an der Ruhr
+München
+Münster
+Neu-Ulm
+Neubrandenburg
+Neumünster
+Neuss
+Neustadt an der Weinstraße
+Neuwied
+Niedersachsen
+Norderstedt
+Nordhorn
+Nordrhein-Westfalen
+North Rhine-Westphalia
+Nuremberg
+Nürnberg
+Oberhausen
+Offenbach am Main
+Offenburg
+Oldenburg (Oldenburg)
+Osnabrück
+Paderborn
+Passau
+Pforzheim
+Plauen
+Potsdam
+Pulheim
+Ratingen
+Recklinghausen
+Regensburg
+Remscheid
+Reutlingen
+Rheine
+Rheinland-Pfalz
+Rhineland-Palatinate
+Rosenheim
+Rostock
+Rüsselsheim am Main
+Saarbrücken
+Saarland
+Sachsen
+Sachsen-Anhalt
+Salzgitter
+Sankt Augustin
+Saxony
+Saxony-Anhalt
+Schleswig-Holstein
+Schweinfurt
+Schwerin
+Schwäbisch Gmünd
+Siegen
+Sindelfingen
+Solingen
+Speyer
+Stolberg (Rhld.)
+Stralsund
+Stuttgart
+Thuringia
+Thüringen
+Trier
+Troisdorf
+Tübingen
+Ulm
+Unna
+Velbert
+Viersen
+Villingen-Schwenningen
+Waiblingen
+Weimar
+Wesel
+Wetzlar
+Wiesbaden
+Wilhelmshaven
+Willich
+Witten
+Wolfenbüttel
+Wolfsburg
+Worms
+Wuppertal
+Würzburg
+Zwickau
